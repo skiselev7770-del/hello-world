@@ -1,3 +1,3 @@
 module github.com/skiselev7770-del/hello-world
 
-go 1.25
+go 1.23
